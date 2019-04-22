@@ -1,0 +1,14 @@
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.csprojAssemblyReference.cache
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.csproj.CoreCompileInputs.cache
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ControlForestFires.exe.config
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ControlForestFires.exe
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ControlForestFires.pdb
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.exe
+C:\Users\soligogd\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.pdb
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ControlForestFires.exe.config
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ControlForestFires.exe
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ControlForestFires.pdb
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.exe
+C:\Users\Daniel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ControlForestFires.pdb
